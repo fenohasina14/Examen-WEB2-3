@@ -2,6 +2,7 @@ import {Personne} from "./models/Personne.js";
 import {Patrimoine} from "./models/Patrimoine.js";
 import {BienMateriels} from "./models/Possessions/BienMateriels.js";
 import {CompteBancaireCourant, CompteBancaireEpargne, Money} from "./models/Possessions/Money.js";
+import { Flux } from "./models/Flux.js";
 
 
 // Propriétaire du patrimoine
